@@ -1,2 +1,3 @@
-using_push = [array, string] 
-array.push 
+def using_push (array, element) 
+  array.push
+end
